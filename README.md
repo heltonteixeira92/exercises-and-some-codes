@@ -1,2 +1,2 @@
 # UriOlineAnswers
-my owner answers Uri Online Judge
+my own answers Uri Online Judge
