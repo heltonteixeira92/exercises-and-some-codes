@@ -1,8 +1,8 @@
 A = float(input())
 B = float(input())
 
-SOMA = (A+B)
+NOTA = A + B
 
-MEDIA = SOMA/float(2)
+MEDIA = NOTA / 2
 
-print(f'MEDIA = {MEDIA:.5f}')
+print('MEDIA = %.5f' %MEDIA)
