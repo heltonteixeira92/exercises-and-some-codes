@@ -1,0 +1,12 @@
+'''
+Problema:    2602 - Select Básico
+Resposta:    Accepted
+Linguagem:    PostgreSQL (psql 9.4.19)
+Tempo:    0.003s
+Tamanho:    148 Bytes
+Memória:    -
+Code Golf:    0 caracteres (-48 que a mediana)
+Submissão:    12/04/2021 11:59:51
+'''
+
+SELECT name FROM customers WHERE state='RS';

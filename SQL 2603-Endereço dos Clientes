@@ -1,0 +1,12 @@
+
+Problema:    2603 - Endereço dos Clientes
+Resposta:    Accepted
+Linguagem:    PostgreSQL (psql 9.4.19)
+Tempo:    0.004s
+Tamanho:    164 Bytes
+Memória:    -
+Code Golf:    0 caracteres (-65 que a mediana)
+Submissão:    12/04/2021 12:05:51
+
+
+SELECT name,street FROM customers WHERE city='Porto Alegre';
