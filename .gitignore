@@ -10,5 +10,7 @@ bin/
 launch.json
 settings.json
 
+.venv/
+.env
 
 teste.py
