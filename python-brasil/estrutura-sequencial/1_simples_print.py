@@ -1,3 +1,12 @@
-"""Faça um Programa que mostre a mensagem "Alo mundo" na tela."""
+"""Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-print('Alo mundo')
+    >>> ola_mundo()
+    Olá Mundo
+"""
+
+
+def ola_mundo():
+    return print('Olá Mundo')
+
+
+ola_mundo()
