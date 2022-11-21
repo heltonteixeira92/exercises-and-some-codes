@@ -7,7 +7,7 @@ def solve(s):
             word = word.title()
         title_list.append(word)
 
-    string = ' '.join(title_list)
+    string = ' '.join(title_list)   
     return str(string)
 
 
