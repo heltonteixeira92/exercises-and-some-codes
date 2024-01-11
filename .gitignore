@@ -14,3 +14,5 @@ settings.json
 .env
 
 teste.py
+
+__pycache__/
